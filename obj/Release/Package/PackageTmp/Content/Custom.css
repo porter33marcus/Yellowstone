@@ -1,0 +1,166 @@
+﻿/* color scheme
+    #05386B dark imperial blue
+    #379683 darker green
+    
+    #8EE4AF lighter green
+    #EDF5E1 off white
+*/
+
+
+body {
+    background-color: #97CAEF;
+}
+#content2.body {
+    background-color: white;
+    color: black;
+}
+
+.jumbotron{
+    background: url("/Images/river.jpg");
+    background-size: 100% 100%;
+    margin-top: 1em;
+}
+
+    .jumbotron h1 {
+        color: ghostwhite;
+        font-weight: 700;
+    }
+
+    .jumbotron p {
+        color: ghostwhite;
+        margin-bottom: 10px;
+        font-size: 30px;
+        font-weight: 600;
+    }
+img{
+    max-width: 100%;
+    height: auto;
+    padding:0px;
+    margin: 0px;
+    
+}
+#bodycontent{
+    background-color: #557A95;
+    color: #5D5C61;
+}
+
+.navbar navbar-inverse navbar-fixed-to {
+    background-color: #05386B;
+    color: ghostwhite;
+}
+
+
+.navbar-header {
+    background-color: #05386B;
+    color: ghostwhite;
+}
+.navbar {
+    background-color: #05386B;
+    color: ghostwhite;
+}
+.navbar-toggle{
+    color: ghostwhite;
+}
+button{
+    color: ghostwhite;
+}
+.container body-content {
+    background-color: #05386B;
+    color: ghostwhite;
+}
+li:hover{
+    background-color: #5D5C61;
+    color: black;
+}
+
+.row {
+    background-color: #5D5C61;
+}
+
+.icon-bar {
+    background-color: #5D5C61;
+    color: ghostwhite;
+}
+
+.container-fluid {
+    margin: 0px;
+    padding: 0px;
+    background-color: #557A95;
+}
+.continer1 {
+    background-color: transparent;
+    
+}
+.container {
+    background-color: transparent;
+    color: ghostwhite;
+   
+}
+.col-md-6 {
+    width: 49%;
+    margin: 2px;
+    padding: 2px;
+}
+.col-md-4 {
+    width: 33%;
+    margin: 2px;
+    padding: 2px;
+}
+.col-md-3 {
+    width: 25%;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.btn btn-primary btn-lg {
+    align-content: center;
+}
+
+.donatePage {
+    background-color: white;
+    color: black;
+    
+}
+#donateForm {
+    background-color: white;
+    color: black;
+    display: table;
+    
+}
+.form-group {
+    background-color: white;
+    color: black;
+    display: table-row;
+}
+.control-label col-sm-3{
+    width: 25%;
+}
+.Donatepage {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+#lblConfirmation{
+    color:#05386B ;
+}
+
+table td{
+    text-align:center;
+}
+table th{
+    text-align:center;
+}
+table{
+    text-align:center;
+}
+
+
+
+
+footer {
+    background-color: #05386B;
+}

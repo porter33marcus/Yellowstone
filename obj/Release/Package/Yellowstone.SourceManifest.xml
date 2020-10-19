@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\porte\Desktop\Fall 2020\Application Development BAIS 3120\code\ch 4 and 6\Yellowstone\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\porte\Desktop\Fall 2020\Application Development BAIS 3120\code\ch 4 and 6\Yellowstone\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\porte\Desktop\Fall 2020\Application Development BAIS 3120\code\ch 4 and 6\Yellowstone\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
